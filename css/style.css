@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+
+/*
+FONTS: Teko, Roboto
+-------------------
+COLORS:
+primary: #083A71;
+secondary:  rgb(8, 58, 113,0.15);
+orange: #F68C02;
+
+background: 
+
+bg-gray: #F7F8F9;
+*/
+body{
+    background-color: rgb(8, 58, 113,0.15);
+
+ 
+}
+.ls-1 {
+    letter-spacing: 1px;
+}
+.font-primary{
+    font-family: 'Teko', 'Helvetica Neue';
+}
+
+.font-seconday{
+    font-family: 'Roboto', sans-serif;
+}
+
+.bg-primary {
+    background-color: #083A71;
+}
+
+.bg-secondary {
+    background-color:  rgb(8, 58, 113,0.15);
+}
+
+.bg-orange {
+    background-color:#F68C02 !important;
+}
+.bg-gray {
+    background-color: #F7F8F9;
+}
+
+.bg-transparent {
+    background-color: transparent !important;
+}
+.align {
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+}
+.fw-100 {font-weight: 100;}
+.fw-200 {font-weight: 200;} 
+.fw-300 {font-weight: 300;} 
+.fw-400 {font-weight: 400;} 
+.fw-500 {font-weight: 500;} 
+.fw-600 {font-weight: 600;}
+
+.color-primary {
+    color:#083A71 ;
+}
+
+.color-gray {
+   color: rgb(142, 143, 143, 0.5);
+}
+.fs-14 {font-size:14px}
+.fs-27 {font-size:27px}
+.fs-30 {font-size:30px}
+.fs-50 {font-size:50px}
+.fs-70 {font-size: 70px;}
+
+
+.form-control, #addon-wrapping {
+    background-color: #FFFFFF !important;
+    opacity: 54%;
+}
+
+#addon-wrapping {
+    border: none !important;
+}
+
+.brand {
+    width: 90% !important;
+    position: absolute;
+    bottom:2%;
+    z-index: 99;
+    background-color: #fff;
+    ;}
+
+
+    .icon {
+        width: 100px;
+    }
+.serve > img {
+    width: 80%;
+  display: block;
+}
+
+.serve {
+    position: relative;
+    width: 200px;
+    height: 370px;
+}
+
+.overlay {
+    position: absolute;
+    z-index: 1;
+    bottom: 0 !important;
+    left: 20px;
+}
+
+hr {
+    width: 50%;
+    border-bottom: 2px solid #083A71 !important;
+   
+}
