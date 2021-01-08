@@ -1,4 +1,7 @@
 # Amerifi
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a60edc3a-2e8f-4196-acfc-5fff941f57da/deploy-status)](https://app.netlify.com/sites/amerifi/deploys)
+
 A landing page and website template created for a Venture Capital Company or startup
 
 This website is made with **Bootstrap 5** by Yağnur Tetikcan.
