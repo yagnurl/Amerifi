@@ -6,7 +6,7 @@ A landing page and website template created for a Venture Capital Company or sta
 
 This website is made with **Bootstrap 5** by Yağnur Tetikcan.
 
-[![Preview](Preview "Preview")](https://github.com/yagnurl/Amerifi/blob/main/preview.png?raw=true"Preview")
+[![](https://github.com/yagnurl/Amerifi/blob/main/preview.png)](https://github.com/yagnurl/Amerifi/blob/main/preview.png)
 
 
 
