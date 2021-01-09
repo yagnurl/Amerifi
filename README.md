@@ -10,4 +10,4 @@ This website is made with **Bootstrap 5** by Yağnur Tetikcan.
 
 
 
-***The design of this website belongs to [Harsh Shah](https://dribbble.com/onethirdesigner "Harsh Shah") and this project is just made as a non-profit exercise for Fullstack Web Development Bootcamp of [Kodluyoruz Akademi](https://www.kodluyoruz.org/ "Kodluyoruz Akademi"). *****
+***** The design of this website belongs to [Harsh Shah](https://dribbble.com/onethirdesigner "Harsh Shah") and this project is just made as a non-profit exercise for Fullstack Web Development Bootcamp of [Kodluyoruz Akademi](https://www.kodluyoruz.org/ "Kodluyoruz Akademi"). *****
