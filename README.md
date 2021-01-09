@@ -1,6 +1,6 @@
 # Amerifi
 
-[![Demo](https://amerifi.netlify.app)](https://amerifi.netlify.app)
+Demo: [https://amerifi.netlify.app/](https://amerifi.netlify.app// "https://amerifi.netlify.app//")
 
 A landing page and website template created for a Venture Capital Company or startup
 
